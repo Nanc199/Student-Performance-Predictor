@@ -75,6 +75,7 @@ python app.py
 ```
 
 ## 📁 Project Structure
+
 \`\`\`
 Student-Performance-Predictor/
 ├── client/              # React frontend
