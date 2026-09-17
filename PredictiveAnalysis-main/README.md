@@ -76,7 +76,7 @@ python app.py
 
 ## 📁 Project Structure
 
-Student-Performance-Predictor/
+```Student-Performance-Predictor/
 ├── client/ # React frontend
 ├── server/ # Backend + ML model
 │ ├── app.py # API endpoints
@@ -89,6 +89,6 @@ Student-Performance-Predictor/
 │ ├── habit_model.pkl
 │ ├── model_baseline.pkl
 │ └── student_model.pkl
-└── requirements.txt
+└── requirements.txt```
 
 ## 🎬 How It Works (Demo)
