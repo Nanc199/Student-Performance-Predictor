@@ -89,6 +89,7 @@ python app.py
 │ ├── habit_model.pkl
 │ ├── model_baseline.pkl
 │ └── student_model.pkl
-└── requirements.txt```
+└── requirements.txt
+```
 
 ## 🎬 How It Works (Demo)
