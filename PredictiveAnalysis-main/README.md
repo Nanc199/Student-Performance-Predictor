@@ -75,8 +75,21 @@ python app.py
 ```
 
 ## 📁 Project Structure
-├── client/ # React frontend
-├── server/ # Backend + ML model
-│ ├── model.pkl # Trained Random Forest model
-│ └── app.py # API endpoints
-└── notebook/ # Model training notebook (EDA + training)
+\`\`\`
+Student-Performance-Predictor/
+├── client/              # React frontend
+├── server/              # Backend + ML model
+│   ├── model.pkl         # Trained Random Forest model
+│   └── app.py            # API endpoints
+├── notebook/             # Model training notebook (EDA + training)
+├── data/
+│   └── student_data.csv
+├── models/
+│   ├── full_model.pkl
+│   ├── habit_model.pkl
+│   ├── model_baseline.pkl
+│   └── student_model.pkl
+└── requirements.txt
+\`\`\`
+
+## 🎬 How It Works (Demo)
