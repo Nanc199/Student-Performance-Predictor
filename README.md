@@ -96,18 +96,19 @@ Open the above URL in your browser to use the EduPredict AI interface
 
 
 ## 📁 Project Structure
+
+​```
 PredictiveAnalysis-main/
-'''
 ├── data/
-│ └── student_data.csv # Dataset used for training
-├── models/ # Trained Random Forest model files (.pkl)
+│   └── student_data.csv       # Dataset used for training
+├── models/                    # Trained Random Forest model files (.pkl)
 ├── notebooks/
-│ └── exploration.ipynb # Model training & analysis notebook
-├── server.js # Express backend server
-├── package.json # Node.js dependencies
-├── requirements.txt # Python dependencies (for model training)
+│   └── exploration.ipynb      # Model training & analysis notebook
+├── server.js                  # Express backend server
+├── package.json               # Node.js dependencies
+├── requirements.txt           # Python dependencies (for model training)
 └── README.md
-'''
+​```
 
 
 ## 🎥 Demo
