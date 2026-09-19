@@ -106,8 +106,8 @@ PredictiveAnalysis-main/
 ├── server.js # Express backend server
 ├── package.json # Node.js dependencies
 ├── requirements.txt # Python dependencies (for model training)
-└── README.md
-'''
+└── README.md'''
+
 
 ## 🎥 Demo
 <img width="610" height="435" alt="Screenshot 2026-08-25 225448 (1)" src="https://github.com/user-attachments/assets/b6b3957d-19b9-447e-8f20-f04190d424dd" />
