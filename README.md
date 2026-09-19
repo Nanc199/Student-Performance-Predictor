@@ -97,8 +97,7 @@ Open the above URL in your browser to use the EduPredict AI interface
 
 ## 📁 Project Structure
 
-​```
-PredictiveAnalysis-main/
+​``` PredictiveAnalysis-main/
 ├── data/
 │   └── student_data.csv       # Dataset used for training
 ├── models/                    # Trained Random Forest model files (.pkl)
