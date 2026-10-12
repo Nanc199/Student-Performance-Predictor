@@ -1,5 +1,5 @@
 # Student-Performance-Predictor
-# 🎓 EduPredict AI — Student Performance Predictor
+# 🎓SCORE SENSE — Student Performance Predictor
 
 An intelligent web application that predicts a student's academic performance using a **Machine Learning (Random Forest)** model — backend built with **Node.js + Express**, and the prediction model trained using **Python (scikit-learn)**.
 
